@@ -9,11 +9,13 @@ When you finish, you have a secure REST API application that validates incoming 
 	
   clone this repository to your local machine and install the dependencies using npm:
   
-git clone 	https://github.com/Alexandru1215/Protect-your-API-endpoints-
-cd Protect-your-API-endpoints-
-npm install
 
 
+		git clone https://github.com/your-username/weather-app.git
+                cd https://github.com/your-username/weather-app.git
+                 pm install
+
+		
 	Java 17 
 	Maven
 	SpringBoot3 
