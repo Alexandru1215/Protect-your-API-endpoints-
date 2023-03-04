@@ -11,8 +11,8 @@ When you finish, you have a secure REST API application that validates incoming 
   
 
 
-		git clone https://github.com/your-username/weather-app.git
-                cd https://github.com/your-username/weather-app.git
+		git clone https://github.com/Alexandru1215/Protect-your-API-endpoints-
+                cd https://github.com/Alexandru1215/Protect-your-API-endpoints-
                  pm install
 
 		
